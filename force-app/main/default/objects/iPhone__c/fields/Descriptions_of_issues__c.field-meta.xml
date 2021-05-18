@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Descriptions_of_issues__c</fullName>
+    <externalId>false</externalId>
+    <inlineHelpText>explain what is wrong with the iphone</inlineHelpText>
+    <label>Descriptions of issues</label>
+    <length>500</length>
+    <trackTrending>false</trackTrending>
+    <type>LongTextArea</type>
+    <visibleLines>3</visibleLines>
+</CustomField>

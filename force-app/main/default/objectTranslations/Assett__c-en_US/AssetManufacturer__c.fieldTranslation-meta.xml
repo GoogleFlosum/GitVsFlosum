@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Manufacturer --></label>
+    <name>AssetManufacturer__c</name>
+    <picklistValues>
+        <masterLabel>Acer</masterLabel>
+        <translation><!-- Acer --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Apple</masterLabel>
+        <translation><!-- Apple --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Brother</masterLabel>
+        <translation><!-- Brother --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Canon</masterLabel>
+        <translation><!-- Canon --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Cisco</masterLabel>
+        <translation><!-- Cisco --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Dell</masterLabel>
+        <translation><!-- Dell --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Hewlett Packard</masterLabel>
+        <translation><!-- Hewlett Packard --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>IBM</masterLabel>
+        <translation><!-- IBM --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Motorola</masterLabel>
+        <translation><!-- Motorola --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Netgear</masterLabel>
+        <translation><!-- Netgear --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Samsung</masterLabel>
+        <translation><!-- Samsung --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>View Sonic</masterLabel>
+        <translation><!-- View Sonic --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

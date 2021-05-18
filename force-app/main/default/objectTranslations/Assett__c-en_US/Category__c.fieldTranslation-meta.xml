@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Category --></label>
+    <name>Category__c</name>
+    <picklistValues>
+        <masterLabel>Computer</masterLabel>
+        <translation><!-- Computer --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Mobile Devices</masterLabel>
+        <translation><!-- Mobile Devices --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Network Hardware</masterLabel>
+        <translation><!-- Network Hardware --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Printer</masterLabel>
+        <translation><!-- Printer --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Server</masterLabel>
+        <translation><!-- Server --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

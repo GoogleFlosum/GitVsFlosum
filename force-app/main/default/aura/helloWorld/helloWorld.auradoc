@@ -1,0 +1,7 @@
+<aura:documentation>
+	<aura:description>Documentation</aura:description>
+	<aura:example name="ExampleName" ref="exampleComponentName" label="Label">
+		HelloWorld aura component has a description section
+        Paragraph starts here
+	</aura:example>
+</aura:documentation>

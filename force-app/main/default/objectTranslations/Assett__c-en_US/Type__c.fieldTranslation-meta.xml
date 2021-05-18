@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Type --></label>
+    <name>Type__c</name>
+    <picklistValues>
+        <masterLabel>Copier</masterLabel>
+        <translation><!-- Copier --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Desktop PC</masterLabel>
+        <translation><!-- Desktop PC --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Fax</masterLabel>
+        <translation><!-- Fax --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Firewall</masterLabel>
+        <translation><!-- Firewall --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Laptop PC</masterLabel>
+        <translation><!-- Laptop PC --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Mobile Phone</masterLabel>
+        <translation><!-- Mobile Phone --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Monitor</masterLabel>
+        <translation><!-- Monitor --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Multifunction Printer</masterLabel>
+        <translation><!-- Multifunction Printer --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Network Switch</masterLabel>
+        <translation><!-- Network Switch --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Printer</masterLabel>
+        <translation><!-- Printer --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Projector</masterLabel>
+        <translation><!-- Projector --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Router</masterLabel>
+        <translation><!-- Router --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Scanner</masterLabel>
+        <translation><!-- Scanner --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Server</masterLabel>
+        <translation><!-- Server --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Shredder</masterLabel>
+        <translation><!-- Shredder --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Tablet</masterLabel>
+        <translation><!-- Tablet --></translation>
+    </picklistValues>
+</CustomFieldTranslation>
